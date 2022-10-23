@@ -3,4 +3,5 @@
 
 ### 성적평균 ⭐⭐⭐
 [문제 보기](https://softeer.ai/practice/info.do?idx=1&eid=389) <br/>
+[풀이 보기]() <
 [코드 보기]()
